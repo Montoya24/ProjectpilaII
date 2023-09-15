@@ -1,10 +1,10 @@
 {
-  "name": "test-dwpcii",
+  "name": "project_pilaII",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./server/bin/www",
-    "dev": "DEBUG=test-dwpcii:server && babel-watch ./server/bin/www"
+    "dev": "DEBUG=project_pilaII:server && babel-watch ./server/bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
